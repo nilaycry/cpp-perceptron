@@ -1,4 +1,4 @@
-Perceptron from Scratch
+# Perceptron from Scratch
 
 An implementation of the perceptron learning algorithm in C++ from scratch, trained on the Iris flower dataset to classify Sentosa vs Versicolor flowers. 
 
